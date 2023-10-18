@@ -1,0 +1,4 @@
+Please install these packages in your local environemnt before running the healthcare_chatbot.
+1. scikit-learn
+2. pandas
+3. pyttsx3
